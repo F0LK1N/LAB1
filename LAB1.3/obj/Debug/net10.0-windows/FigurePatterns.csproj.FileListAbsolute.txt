@@ -1,0 +1,14 @@
+C:\Users\m\Desktop\LAB1.3\bin\Debug\net10.0-windows\FigurePatterns.exe
+C:\Users\m\Desktop\LAB1.3\bin\Debug\net10.0-windows\FigurePatterns.deps.json
+C:\Users\m\Desktop\LAB1.3\bin\Debug\net10.0-windows\FigurePatterns.runtimeconfig.json
+C:\Users\m\Desktop\LAB1.3\bin\Debug\net10.0-windows\FigurePatterns.dll
+C:\Users\m\Desktop\LAB1.3\bin\Debug\net10.0-windows\FigurePatterns.pdb
+C:\Users\m\Desktop\LAB1.3\obj\Debug\net10.0-windows\FigurePatterns.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m\Desktop\LAB1.3\obj\Debug\net10.0-windows\FigurePatterns.AssemblyInfoInputs.cache
+C:\Users\m\Desktop\LAB1.3\obj\Debug\net10.0-windows\FigurePatterns.AssemblyInfo.cs
+C:\Users\m\Desktop\LAB1.3\obj\Debug\net10.0-windows\FigurePatterns.csproj.CoreCompileInputs.cache
+C:\Users\m\Desktop\LAB1.3\obj\Debug\net10.0-windows\FigurePatterns.dll
+C:\Users\m\Desktop\LAB1.3\obj\Debug\net10.0-windows\refint\FigurePatterns.dll
+C:\Users\m\Desktop\LAB1.3\obj\Debug\net10.0-windows\FigurePatterns.pdb
+C:\Users\m\Desktop\LAB1.3\obj\Debug\net10.0-windows\FigurePatterns.genruntimeconfig.cache
+C:\Users\m\Desktop\LAB1.3\obj\Debug\net10.0-windows\ref\FigurePatterns.dll

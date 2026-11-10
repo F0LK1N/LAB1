@@ -1,0 +1,14 @@
+C:\Users\m\Desktop\LAB1.4\ElevatorBuilding\bin\Debug\net10.0-windows\ElevatorBuilding.exe
+C:\Users\m\Desktop\LAB1.4\ElevatorBuilding\bin\Debug\net10.0-windows\ElevatorBuilding.deps.json
+C:\Users\m\Desktop\LAB1.4\ElevatorBuilding\bin\Debug\net10.0-windows\ElevatorBuilding.runtimeconfig.json
+C:\Users\m\Desktop\LAB1.4\ElevatorBuilding\bin\Debug\net10.0-windows\ElevatorBuilding.dll
+C:\Users\m\Desktop\LAB1.4\ElevatorBuilding\bin\Debug\net10.0-windows\ElevatorBuilding.pdb
+C:\Users\m\Desktop\LAB1.4\ElevatorBuilding\obj\Debug\net10.0-windows\ElevatorBuilding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m\Desktop\LAB1.4\ElevatorBuilding\obj\Debug\net10.0-windows\ElevatorBuilding.AssemblyInfoInputs.cache
+C:\Users\m\Desktop\LAB1.4\ElevatorBuilding\obj\Debug\net10.0-windows\ElevatorBuilding.AssemblyInfo.cs
+C:\Users\m\Desktop\LAB1.4\ElevatorBuilding\obj\Debug\net10.0-windows\ElevatorBuilding.csproj.CoreCompileInputs.cache
+C:\Users\m\Desktop\LAB1.4\ElevatorBuilding\obj\Debug\net10.0-windows\ElevatorBuilding.dll
+C:\Users\m\Desktop\LAB1.4\ElevatorBuilding\obj\Debug\net10.0-windows\refint\ElevatorBuilding.dll
+C:\Users\m\Desktop\LAB1.4\ElevatorBuilding\obj\Debug\net10.0-windows\ElevatorBuilding.pdb
+C:\Users\m\Desktop\LAB1.4\ElevatorBuilding\obj\Debug\net10.0-windows\ElevatorBuilding.genruntimeconfig.cache
+C:\Users\m\Desktop\LAB1.4\ElevatorBuilding\obj\Debug\net10.0-windows\ref\ElevatorBuilding.dll
